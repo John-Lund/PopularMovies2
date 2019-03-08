@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Movie Watch</string>
+    <!-- UI Strings -->
+    <string name="server_error_message">Looks like there was a problem with the film server. Please try again later.</string>
+    <string name="internet_error_message">Looks like there was a problem with your internet connection. Please check your connection. Movie Watch\'s functionality will be reduced until a connection is established. </string>
+    <string name="the_movie_s_poster">The movie\'s poster</string>
+    <string name="a_decorative_icon_of_a_heart">a decorative icon of a heart</string>
+    <string name="released_on">Released on</string>
+    <string name="popularity">Popularity</string>
+    <string name="a_thumbs_up_icon">a thumbs-up icon</string>
+    <string name="rating">Rating</string>
+    <string name="synopsis">SYNOPSIS</string>
+    <string name="a_pink_chevron">a pink chevron</string>
+    <string name="an_info_icon">an info icon</string>
+    <string name="movie_watch_is_powered_by_the_movie_db">MOVIE WATCH is powered by THE MOVIE DB</string>
+    <string name="graphic_showing_start_rating_as_an_image">graphic showing start rating as an image</string>
+    <string name="refresh_icon">refresh icon</string>
+    <string name="movie_watch">MOVIE WATCH</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="ok">OK</string>
+    <string name="a_star_icon">a star icon</string>
+    <string name="a_poster_of_the_movie">A poster of the movie</string>
+    <string name="the_film_s_rating_in_terms_of_stars">the film\'s rating in terms of stars</string>
+    <string name="video_warning">Videos can\'t be played until internet connection is re-established.</string>
+    <string name="refresh_warning">You need an internet connection before you can refresh.</string>
+    <string name="no_videos_are_available">No videos are available.</string>
+    <string name="videos">VIDEOS</string>
+    <string name="no_reviews_are_available">No reviews are available.</string>
+    <string name="reviews">REVIEWS</string>
+    <string name="back">back</string>
+    <string name="information">information</string>
+    <string name="refresh_online_data">Refresh online data</string>
+    <string name="favourites">favourites</string>
+    <string name="highly_rated">highly rated</string>
+    <string name="movie_thumbnail">movie thumbnail</string>
+    <string name="play_video">play video</string>
+</resources>

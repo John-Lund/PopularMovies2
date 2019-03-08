@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00001b</color>
+    <color name="colorPrimaryDark">#00001b</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="mediumPink">#b22249</color>
+    <color name="lightPink">#e95974</color>
+    <color name="darkBlue">#00001b</color>
+    <color name="mediumBlue">#1a2941</color>
+    <color name="lightBlue">#5b7d9f</color>
+    <color name="orange">#ff8e0a</color>
+    <color name="green">#01d277</color>
+    <color name="offWhite">#f7f7f8</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#F7F7F8</color>
+    <color name="toobarBlue">#CC00001b</color>
+    <color name="listBackground">#002454</color>
+    <color name="listText">#777473</color>
+</resources>
