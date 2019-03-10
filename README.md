@@ -14,7 +14,7 @@ go to the todo and insert the URL string where indicated.
 Here's a video of the app:
 https://www.youtube.com/watch?v=c6-G50Web4c&t=38s
 
-### **UI Screenshot**
+### **UI Screenshots**
 
 ![image](https://user-images.githubusercontent.com/36385109/54090084-57c99800-4368-11e9-8b69-3b379aa78bbe.png)
 
