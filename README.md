@@ -11,6 +11,9 @@ reloads data when that is the case.  I used constraint animation to create a mor
 The URL for loading data has been removed in this version, but, if you're a Udacity student and want to try this app out,
 go to the todo and insert the URL string where indicated.
 
+Here's a video of the app:
+https://www.youtube.com/watch?v=c6-G50Web4c&t=38s
+
 ### **UI Screenshot**
 
 ![image](https://user-images.githubusercontent.com/36385109/54090084-57c99800-4368-11e9-8b69-3b379aa78bbe.png)
